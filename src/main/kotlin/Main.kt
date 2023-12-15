@@ -13,5 +13,4 @@ fun main() {
         println("${amount * standardRate}  руб.")
     }
 
-
 }
