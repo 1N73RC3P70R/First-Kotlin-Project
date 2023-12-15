@@ -11,11 +11,9 @@ repositories {
 }
 
 dependencies {
+    implementation 'junit:junit:4.13.1'
+    implementation 'org.testng:testng:7.1.0'
     testImplementation 'org.jetbrains.kotlin:kotlin-test'
-}
-
-test {
-    useJUnitPlatform()
 }
 
 compileKotlin {

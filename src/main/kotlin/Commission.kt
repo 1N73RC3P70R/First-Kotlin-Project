@@ -26,10 +26,11 @@ fun commission() {
     println("Введите сумму: ")
     var amount = readLine()?.toDoubleOrNull();
 
-    val commissionTotal = if (amount == null || amount <= 0) {
+
+    val commissionTotal = if (amount == null || amount <= 0 || amount > 150_000) {
         ("Неправильная сумма.")
     } else if (amount <= MINIMUM_RATE) {
-        ("$MINIMUM_RATE руб. комиссия с $cardChoice\")
+        ("$MINIMUM_RATE руб. комиссия с $cardChoice")
     } else if (amount > MINIMUM_RATE) {
         ("${amount * STANDARD_RATE} руб. - комиссия с $cardChoice")
     } else ("Ошибка!")

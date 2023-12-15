@@ -5,13 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d3414cd-4f91-4c3c-95a1-a2bea731bdae" name="Changes" comment="ДЗ 1.1 - Done">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2afbb999f001938c88fa43fc2ef52abf0f8213e4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/CommissionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/CommissionKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/HelloKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/HelloKotlin.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
@@ -20,22 +27,21 @@
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
@@ -65,6 +71,7 @@
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/last-build.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/localstate/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/localstate/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Commission.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Commission.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,10 +152,15 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Confirmation",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager" selected="Kotlin.MainKt">
     <configuration name="HelloKotlin" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
       <ExternalSystemSettings>
@@ -196,7 +208,7 @@
       <updated>1702559413088</updated>
       <workItem from="1702559415730" duration="1515000" />
       <workItem from="1702572286873" duration="174000" />
-      <workItem from="1702641662162" duration="5853000" />
+      <workItem from="1702641662162" duration="16574000" />
     </task>
     <task id="LOCAL-00001" summary="ДЗ 1.1 - Done">
       <created>1702645200161</created>
@@ -212,7 +224,21 @@
       <option name="project" value="LOCAL" />
       <updated>1702645372216</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ДЗ 1.1 - Done">
+      <created>1702648566692</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702648566692</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ДЗ 1.1 - Done">
+      <created>1702648682125</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702648682125</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,9 +259,69 @@
     <MESSAGE value="ДЗ 1.1 - Done" />
     <option name="LAST_COMMIT_MESSAGE" value="ДЗ 1.1 - Done" />
   </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
       <map>
+        <entry key="137243">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Main.kt" />
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Commission.kt" />
+                </list>
+              </option>
+              <option name="id" value="137243" />
+              <option name="initiateTms" value="1702649031102" />
+              <option name="request" value="fun main() {&#10;    println(&quot;&quot;&quot;Выберите операцию: &#10;        |1. ДЗ 1-1&#10;        |2. ДЗ 1-2&#10;        |3. ДЗ 1-3&#10;    &quot;&quot;&quot;.trimMargin())&#10;    var userChoice: String? = readLine();&#10;    userChoice = if ( userChoice == &quot;1&quot;) &#10;    {commission()}&#10;    else {return};&#10;}&#10;&#10;&#10;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="In your code, there is a small issue with the syntax of the `if` statement. The `if` statement should not have a semicolon after the condition. Additionally, the `else` branch should not have a condition inside the parentheses.&#10;&#10;Here's the corrected code:&#10;&#10;```kotlin&#10;fun main() {&#10;    println(&#10;        &quot;&quot;&quot;Выберите операцию: &#10;        |1. ДЗ 1-1&#10;        |2. ДЗ 1-2&#10;        |3. ДЗ 1-3&#10;    &quot;&quot;&quot;.trimMargin()&#10;    )&#10;    var userChoice: String? = readLine()&#10;    userChoice = if (userChoice == &quot;1&quot;) {&#10;        commission()&#10;    } else {&#10;        return&#10;    }&#10;}&#10;```&#10;&#10;In this code, I removed the semicolon after the `if` statement's condition. I also removed the condition inside the parentheses of the `else` branch. Now, if `userChoice` is equal to &quot;1&quot;, the `commission()` function will be invoked. Otherwise, the code will simply return from the `main()` function.&#10;&#10;Please note that the code currently does not handle the case when `userChoice` is &quot;2&quot; or &quot;3&quot;. You can add additional branches or logic to handle those cases as needed.&#10;&#10;Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702649041806" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Main.kt" />
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Commission.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="16e2a7">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+              <option name="id" value="16e2a7" />
+              <option name="initiateTms" value="1702664860513" />
+              <option name="request" value="fun Likes() {&#10;    println(&quot;&quot;&quot;Введите количество лайков: &quot;&quot;&quot;)&#10;    val input: Int? = readLine()?.toIntOrNull()&#10;&#10;    if (input == 0)&#10;        println(&quot;Никому пока не понравилось&quot;)&#10;    else if (input % 1 == 0) println(&quot;Понравилось 1 человеку&quot;)&#10;    else println(&quot;Понравилось $input человек&quot;)&#10;&#10;}&#10;&#10;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The code you provided is correct and does not contain any whitespace errors. However, the condition `input % 1 == 0` is unnecessary and can be simplified. Here's the updated code:&#10;&#10;```kotlin&#10;fun Likes() {&#10;    println(&quot;Введите количество лайков: &quot;)&#10;    val input: Int? = readLine()?.toIntOrNull()&#10;&#10;    if (input == 0) {&#10;        println(&quot;Никому пока не понравилось&quot;)&#10;    } else {&#10;        println(&quot;Понравилось $input человек&quot;)&#10;    }&#10;}&#10;```&#10;&#10;In this updated code, we removed the unnecessary condition `input % 1 == 0` and simplified the logic. Now, if the input is 0, the message &quot;Никому пока не понравилось&quot; will be printed. Otherwise, the message &quot;Понравилось $input человек&quot; will be printed, where `$input` is the actual number of likes entered by the user.&#10;&#10;Please try using this updated code, and let me know if you encounter any further issues!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702664867562" />
+              <option name="usedIndexedFilePaths">
+                <list>
+                  <option value="C:\Users\1N73RC3P70R\Documents\Idea\HelloKotlin\src\main\kotlin\Main.kt" />
+                  <option value="C:\Users\1N73RC3P70R\Documents\Idea\HelloKotlin\src\main\kotlin\Commission.kt" />
+                </list>
+              </option>
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
         <entry key="1d903c">
           <value>
             <ChatHistoryModel>
@@ -255,6 +341,30 @@
               <option name="usedLocalFilePaths">
                 <list>
                   <option value="$PROJECT_DIR$/src/main/kotlin/Main.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="2243c5">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/test/kotlin/CommissionTest.kt" />
+                </list>
+              </option>
+              <option name="id" value="2243c5" />
+              <option name="initiateTms" value="1702661986312" />
+              <option name="request" value="How to fix the following error:&#10;Unresolved reference: Test" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="If you're encountering the &quot;Unresolved reference: Test&quot; error, it means that the test framework dependency is not properly configured or imported in your project. To resolve this error, you need to make sure that you have the necessary testing framework dependency added to your project and that it is properly imported.&#10;&#10;Here are the steps to fix the error:&#10;&#10;1. Make sure you have added the JUnit dependency to your project's build configuration file. If you are using Gradle, add the following line to your `build.gradle` file:&#10;&#10;   ```groovy&#10;   testImplementation 'junit:junit:4.13.2'&#10;   ```&#10;&#10;   If you are using Maven, add the following dependency to your `pom.xml` file:&#10;&#10;   ```xml&#10;   &lt;dependency&gt;&#10;       &lt;groupId&gt;junit&lt;/groupId&gt;&#10;       &lt;artifactId&gt;junit&lt;/artifactId&gt;&#10;       &lt;version&gt;4.13.2&lt;/version&gt;&#10;       &lt;scope&gt;test&lt;/scope&gt;&#10;   &lt;/dependency&gt;&#10;   ```&#10;&#10;2. After adding the dependency, rebuild your project to fetch the JUnit library and make it available for import.&#10;&#10;3. Make sure you have imported the `org.junit.Test` class in your test file. Add the following line at the top of your file:&#10;&#10;   ```kotlin&#10;   import org.junit.Test&#10;   ```&#10;&#10;   This import statement allows you to use the `@Test` annotation and other JUnit features in your test file.&#10;&#10;4. Save the file and rebuild your project again to ensure that the changes are applied.&#10;&#10;After following these steps, the &quot;Unresolved reference: Test&quot; error should be resolved, and you should be able to use the `@Test` annotation without any issues.&#10;&#10;Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702661997426" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/test/kotlin/CommissionTest.kt" />
                 </list>
               </option>
             </ChatHistoryModel>
@@ -313,6 +423,32 @@
             </ChatHistoryModel>
           </value>
         </entry>
+        <entry key="264a44">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Main.kt" />
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Commission.kt" />
+                </list>
+              </option>
+              <option name="id" value="264a44" />
+              <option name="initiateTms" value="1702648919690" />
+              <option name="request" value="fun main() {&#10;    println(&quot;&quot;&quot;Выберите операцию: &#10;        |1. ДЗ 1-1&#10;        |2. ДЗ 1-2&#10;        |3. ДЗ 1-3&#10;    &quot;&quot;&quot;.trimMargin())&#10;    val userChoice: String? = readLine();&#10;    userChoice = if ( userChoice == &quot;1&quot;) &#10;    {commission()};&#10;}&#10;&#10;&#10;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="In your code, there are a couple of issues. &#10;&#10;First, you are trying to assign a value to the `userChoice` variable using the `if` statement. However, `userChoice` is declared as a `val`, which means it is immutable and cannot be reassigned. To fix this, you can declare `userChoice` as a `var` instead.&#10;&#10;Second, the `if` statement is missing the `else` branch. In Kotlin, the `if` statement must have both the `if` and `else` branches. If you don't need an `else` branch, you can use the `if-else` expression instead.&#10;&#10;Here's the corrected code:&#10;&#10;```kotlin&#10;fun main() {&#10;    println(&#10;        &quot;&quot;&quot;Выберите операцию: &#10;        |1. ДЗ 1-1&#10;        |2. ДЗ 1-2&#10;        |3. ДЗ 1-3&#10;    &quot;&quot;&quot;.trimMargin()&#10;    )&#10;    var userChoice: String? = readLine()&#10;    if (userChoice == &quot;1&quot;) {&#10;        commission()&#10;    }&#10;}&#10;```&#10;&#10;In this code, I changed the declaration of `userChoice` to `var` so that it can be reassigned. I also added the `else` branch to the `if` statement. If the `userChoice` is not equal to &quot;1&quot;, the code will simply continue without invoking the `commission()` function.&#10;&#10;Please note that if you want to handle other choices (2 and 3), you can add additional `else if` branches or use a `when` statement to handle multiple cases.&#10;&#10;Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702648927086" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Main.kt" />
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Commission.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
         <entry key="2f4406">
           <value>
             <ChatHistoryModel>
@@ -332,6 +468,132 @@
               <option name="usedLocalFilePaths">
                 <list>
                   <option value="$PROJECT_DIR$/src/main/kotlin/Main.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="3702f3">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+              <option name="id" value="3702f3" />
+              <option name="initiateTms" value="1702664033890" />
+              <option name="request" value="but it would not always be gramatically correct, for example if 1 person only has liked" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="You're right, my apologies for overlooking the grammar. To handle the grammatical correctness for different numbers of likes, you can modify the code as follows:&#10;&#10;```kotlin&#10;fun Likes() {&#10;    println(&quot;Введите количество лайков: &quot;)&#10;    val likes: Int = readLine()?.toIntOrNull() ?: 0&#10;&#10;    val message = when {&#10;        likes == 0 -&gt; &quot;Никому пока не понравилось&quot;&#10;        likes == 1 -&gt; &quot;Понравилось 1 человеку&quot;&#10;        else -&gt; &quot;Понравилось $likes людям&quot;&#10;    }&#10;&#10;    println(message)&#10;}&#10;```&#10;&#10;In this updated code, we use a `when` expression to handle different cases. If `likes` is 0, we display the message &quot;Никому пока не понравилось&quot;. If `likes` is 1, we display &quot;Понравилось 1 человеку&quot;. For any other value of `likes`, we use the general form &quot;Понравилось $likes людям&quot;, where `$likes` is the number of likes.&#10;&#10;Now, the program will display grammatically correct messages based on the number of likes.&#10;&#10;Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702664037745" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="3a955d">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/test/kotlin/CommissionTest.kt" />
+                </list>
+              </option>
+              <option name="id" value="3a955d" />
+              <option name="initiateTms" value="1702661508172" />
+              <option name="request" value="How do I implement import org.junit.Test in my project" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To import the `org.junit.Test` class in your project, you need to add the JUnit dependency to your project's build configuration file. &#10;&#10;If you are using Gradle, you can add the following line to your `build.gradle` file:&#10;&#10;```groovy&#10;testImplementation 'junit:junit:4.13.2'&#10;```&#10;&#10;If you are using Maven, you can add the following dependency to your `pom.xml` file:&#10;&#10;```xml&#10;&lt;dependency&gt;&#10;    &lt;groupId&gt;junit&lt;/groupId&gt;&#10;    &lt;artifactId&gt;junit&lt;/artifactId&gt;&#10;    &lt;version&gt;4.13.2&lt;/version&gt;&#10;    &lt;scope&gt;test&lt;/scope&gt;&#10;&lt;/dependency&gt;&#10;```&#10;&#10;After adding the dependency, you need to rebuild your project to fetch the JUnit library and make it available for import.&#10;&#10;Once the dependency is added and the project is rebuilt, you can import the `org.junit.Test` class in your test file by adding the following line at the top of the file:&#10;&#10;```kotlin&#10;import org.junit.Test&#10;```&#10;&#10;Now you should be able to use the `@Test` annotation and other JUnit features in your test file.&#10;&#10;Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702661512473" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/test/kotlin/CommissionTest.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="3e7510">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/test/kotlin/CommissionTest.kt" />
+                </list>
+              </option>
+              <option name="id" value="3e7510" />
+              <option name="initiateTms" value="1702653172794" />
+              <option name="request" value="Write a test for my project" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Sure! To write a test for your project, I'll need some information about the specific functionality or feature you want to test. Please provide me with the details of the functionality you want to test, and I'll be happy to assist you in writing the test." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702653174764" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/test/kotlin/CommissionTest.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="487514">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+              <option name="id" value="487514" />
+              <option name="initiateTms" value="1702665094040" />
+              <option name="request" value="Fix this &#10;fun Likes() {&#10;    println(&quot;&quot;&quot;Введите количество лайков: &quot;&quot;&quot;)&#10;    val input: Int? = readLine()?.toIntOrNull()&#10;&#10;    if (input == 0)&#10;        println(&quot;Никому пока не понравилось&quot;)&#10;    else if println(&quot;Понравилось $input человек&quot;)&#10;    else if (input!! % 1 == 0) println(&quot;Понравилось 1 человеку&quot;)&#10;&#10;}&#10;&#10;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="There are a couple of issues in your code. First, the `else if` condition `println(&quot;Понравилось $input человек&quot;)` is not a valid condition. Second, the condition `input!! % 1 == 0` is unnecessary and can be simplified. Here's the corrected code:&#10;&#10;```kotlin&#10;fun Likes() {&#10;    println(&quot;Введите количество лайков: &quot;)&#10;    val input: Int? = readLine()?.toIntOrNull()&#10;&#10;    if (input == 0) {&#10;        println(&quot;Никому пока не понравилось&quot;)&#10;    } else if (input == 1) {&#10;        println(&quot;Понравилось 1 человеку&quot;)&#10;    } else {&#10;        println(&quot;Понравилось $input человек&quot;)&#10;    }&#10;}&#10;```&#10;&#10;In this updated code, we removed the unnecessary condition `input!! % 1 == 0` and simplified the logic. Now, if the input is 0, the message &quot;Никому пока не понравилось&quot; will be printed. If the input is 1, the message &quot;Понравилось 1 человеку&quot; will be printed. Otherwise, the message &quot;Понравилось $input человек&quot; will be printed, where `$input` is the actual number of likes entered by the user.&#10;&#10;Please try using this updated code, and let me know if you encounter any further issues!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702665102078" />
+              <option name="usedIndexedFilePaths">
+                <list>
+                  <option value="C:\Users\1N73RC3P70R\Documents\Idea\HelloKotlin\src\main\kotlin\Main.kt" />
+                  <option value="C:\Users\1N73RC3P70R\Documents\Idea\HelloKotlin\src\main\kotlin\Commission.kt" />
+                </list>
+              </option>
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="495e60">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+              <option name="id" value="495e60" />
+              <option name="initiateTms" value="1702664750031" />
+              <option name="request" value="How to fix the following error:&#10;Incorrect whitespace" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;Incorrect whitespace&quot; typically occurs when there are extra or missing spaces, tabs, or newlines in the code. To fix this error, you need to ensure that the whitespace in your code is correct and follows the Kotlin coding conventions.&#10;&#10;In the code you provided, there doesn't seem to be any obvious whitespace errors. However, it's possible that the error is occurring in a different part of your code or in the surrounding context.&#10;&#10;To help you further, please provide more information about the specific error message and the line of code where the error is occurring. Additionally, if you can share the surrounding context or any related code, it would be helpful in identifying and resolving the issue.&#10;&#10;Looking forward to your response!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702664753973" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
                 </list>
               </option>
             </ChatHistoryModel>
@@ -409,6 +671,116 @@
             </ChatHistoryModel>
           </value>
         </entry>
+        <entry key="56f2d9">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+              <option name="id" value="56f2d9" />
+              <option name="initiateTms" value="1702664651324" />
+              <option name="request" value="How to fix the following error:&#10;Expecting an element. Expecting '). " />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;Expecting an element. Expecting ').' &quot; occurs because there is a syntax error in the code. Specifically, the line `else if (input %% 1 == 0) println(&quot;Понравилось 1 человеку&quot;)` contains an incorrect operator.&#10;&#10;To fix this error, you need to replace `%%` with `%` to perform the modulo operation correctly. Here's the corrected code:&#10;&#10;```kotlin&#10;fun Likes() {&#10;    println(&quot;Введите количество лайков: &quot;)&#10;    val input: Int? = readLine()?.toIntOrNull()&#10;    if (input == 0) {&#10;        println(&quot;Никому пока не понравилось&quot;)&#10;    } else if (input % 1 == 0) {&#10;        println(&quot;Понравилось 1 человеку&quot;)&#10;    } else {&#10;        println(&quot;&quot;)&#10;    }&#10;}&#10;```&#10;&#10;In this updated code, the modulo operator `%` is used to check if the input is divisible by 1. If it is, the message &quot;Понравилось 1 человеку&quot; is printed. Otherwise, an empty string is printed.&#10;&#10;Please try using this corrected code, and let me know if you encounter any further issues!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702664657375" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="66bfbe">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Main.kt" />
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Commission.kt" />
+                </list>
+              </option>
+              <option name="id" value="66bfbe" />
+              <option name="initiateTms" value="1702648982770" />
+              <option name="request" value="Fix fun main() {&#10;    println(&quot;&quot;&quot;Выберите операцию: &#10;        |1. ДЗ 1-1&#10;        |2. ДЗ 1-2&#10;        |3. ДЗ 1-3&#10;    &quot;&quot;&quot;.trimMargin())&#10;    var userChoice: String? = readLine();&#10;    userChoice = if ( userChoice == &quot;1&quot;) &#10;    {commission()}&#10;    else( userChoice == &quot;2&quot;) {return};&#10;}&#10;&#10;&#10;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="In your code, there are a few issues with the syntax of the `if` statement and the `else` branch. &#10;&#10;First, the `else` branch should not have a condition. It should be simply `else { ... }` without any condition inside the parentheses.&#10;&#10;Second, the `if` statement is missing the `else` branch for the case when `userChoice` is not equal to &quot;1&quot;. You can add an `else` branch to handle this case.&#10;&#10;Here's the corrected code:&#10;&#10;```kotlin&#10;fun main() {&#10;    println(&#10;        &quot;&quot;&quot;Выберите операцию: &#10;        |1. ДЗ 1-1&#10;        |2. ДЗ 1-2&#10;        |3. ДЗ 1-3&#10;    &quot;&quot;&quot;.trimMargin()&#10;    )&#10;    var userChoice: String? = readLine()&#10;    if (userChoice == &quot;1&quot;) {&#10;        commission()&#10;    } else if (userChoice == &quot;2&quot;) {&#10;        return&#10;    } else {&#10;        // Handle other choices here&#10;    }&#10;}&#10;```&#10;&#10;In this code, I added an `else if` branch to handle the case when `userChoice` is equal to &quot;2&quot;. If `userChoice` is &quot;2&quot;, the code will simply return from the `main()` function. You can add additional `else if` branches or an `else` branch to handle other choices as needed.&#10;&#10;Please note that the code currently does not handle the case when `userChoice` is &quot;3&quot; or any other value. You can add additional branches or logic to handle those cases.&#10;&#10;Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702648995678" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Main.kt" />
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Commission.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="67449b">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+              <option name="id" value="67449b" />
+              <option name="initiateTms" value="1702663771875" />
+              <option name="request" value="Finish this program:&#10;fun Likes()&#10;{&#10;    println(&quot;&quot;&quot;Введите количество лайков: &quot;&quot;&quot;)&#10;    val input: Int;&#10;    if ()&#10;&#10;}&#10;&#10;Here's what needs to be done:&#10;Вам нужно провести самостоятельный анализ и написать приложение с вот такими условиями:&#10;&#10;В переменной likes хранится число лайков.&#10;В зависимости от того, что хранится в likes, приложение выводит вариант в консоль." />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Certainly! Based on your requirements, here's the completed program:&#10;&#10;```kotlin&#10;fun Likes() {&#10;    println(&quot;Введите количество лайков: &quot;)&#10;    val likes: Int = readLine()?.toIntOrNull() ?: 0&#10;&#10;    val message = when (likes) {&#10;        0 -&gt; &quot;Никто не оценил вашу публикацию&quot;&#10;        1 -&gt; &quot;Вашу публикацию оценил 1 человек&quot;&#10;        in 2..10 -&gt; &quot;Вашу публикацию оценили $likes человека&quot;&#10;        else -&gt; &quot;Вашу публикацию оценили более 10 человек&quot;&#10;    }&#10;&#10;    println(message)&#10;}&#10;```&#10;&#10;In this program, we prompt the user to enter the number of likes using `println(&quot;Введите количество лайков: &quot;)`. Then, we read the input using `readLine()` and convert it to an `Int` using `toIntOrNull()`. If the conversion fails, we default the value to 0.&#10;&#10;Next, we use a `when` expression to determine the appropriate message based on the value of `likes`. If `likes` is 0, we display the message &quot;Никто не оценил вашу публикацию&quot;. If `likes` is 1, we display &quot;Вашу публикацию оценил 1 человек&quot;. If `likes` is between 2 and 10 (inclusive), we display &quot;Вашу публикацию оценили $likes человека&quot;. Otherwise, if `likes` is greater than 10, we display &quot;Вашу публикацию оценили более 10 человек&quot;.&#10;&#10;Finally, we print the message to the console using `println(message)`.&#10;&#10;You can now call the `Likes()` function to execute the program and test it with different values of `likes`.&#10;&#10;Let me know if you need any further assistance!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702663785532" />
+              <option name="usedIndexedFilePaths">
+                <list>
+                  <option value="C:\Users\1N73RC3P70R\Documents\Idea\HelloKotlin\src\main\kotlin\Main.kt" />
+                  <option value="C:\Users\1N73RC3P70R\Documents\Idea\HelloKotlin\src\main\kotlin\Commission.kt" />
+                </list>
+              </option>
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="694d31">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+              <option name="id" value="694d31" />
+              <option name="initiateTms" value="1702664766101" />
+              <option name="request" value="Fix &#10;fun Likes() {&#10;    println(&quot;&quot;&quot;Введите количество лайков: &quot;&quot;&quot;)&#10;    val input: Int? = readLine()?.toIntOrNull()&#10;    &#10;    if (input == 0)&#10;        println(&quot;Никому пока не понравилось&quot;)&#10;    else if (input % 1 == 0) println(&quot;Понравилось 1 человеку&quot;)&#10;    else println(&quot;&quot;)&#10;&#10;}&#10;&#10;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The code you provided seems to be correct in terms of whitespace. However, the condition `input % 1 == 0` is unnecessary and can be simplified. Here's the updated code:&#10;&#10;```kotlin&#10;fun Likes() {&#10;    println(&quot;Введите количество лайков: &quot;)&#10;    val input: Int? = readLine()?.toIntOrNull()&#10;    &#10;    if (input == 0) {&#10;        println(&quot;Никому пока не понравилось&quot;)&#10;    } else {&#10;        println(&quot;Понравилось 1 человеку&quot;)&#10;    }&#10;}&#10;```&#10;&#10;In this updated code, we removed the unnecessary condition `input % 1 == 0` and simplified the logic. Now, if the input is 0, the message &quot;Никому пока не понравилось&quot; will be printed. Otherwise, the message &quot;Понравилось 1 человеку&quot; will be printed.&#10;&#10;Please try using this updated code, and let me know if you encounter any further issues!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702664770834" />
+              <option name="usedIndexedFilePaths">
+                <list>
+                  <option value="C:\Users\1N73RC3P70R\Documents\Idea\HelloKotlin\src\main\kotlin\Main.kt" />
+                  <option value="C:\Users\1N73RC3P70R\Documents\Idea\HelloKotlin\src\main\kotlin\Commission.kt" />
+                </list>
+              </option>
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
         <entry key="71c726">
           <value>
             <ChatHistoryModel>
@@ -428,6 +800,83 @@
               <option name="usedLocalFilePaths">
                 <list>
                   <option value="$PROJECT_DIR$/src/main/kotlin/Main.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="782f71">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+              <option name="id" value="782f71" />
+              <option name="initiateTms" value="1702665136728" />
+              <option name="request" value="I need all three ifs to be present" />
+              <option name="response" value="" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702665140567" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="88d91a">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+              <option name="id" value="88d91a" />
+              <option name="initiateTms" value="1702664003941" />
+              <option name="request" value="It needs to work with &quot;Понравилось X человек&quot;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Apologies for the confusion. If you want the program to display the message &quot;Понравилось X человек&quot; for any number of likes, you can modify the code as follows:&#10;&#10;```kotlin&#10;fun Likes() {&#10;    println(&quot;Введите количество лайков: &quot;)&#10;    val likes: Int = readLine()?.toIntOrNull() ?: 0&#10;&#10;    val message = &quot;Понравилось $likes человек&quot;&#10;&#10;    println(message)&#10;}&#10;```&#10;&#10;In this updated code, we simply construct the message &quot;Понравилось X человек&quot; using string interpolation, where `X` is the value of `likes`. This will display the exact number of people who liked the publication.&#10;&#10;Now, the program will display the message &quot;Понравилось X человек&quot; for any number of likes.&#10;&#10;Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702664007787" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="8fcadd">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/build.gradle" />
+                </list>
+              </option>
+              <option name="id" value="8fcadd" />
+              <option name="initiateTms" value="1702662291360" />
+              <option name="request" value="Build file 'C:\Users\1N73RC3P70R\Documents\Idea\HelloKotlin\build.gradle' line: 20&#10;&#10;A problem occurred evaluating root project 'HelloKotlin'.&#10;&gt; No signature of method: build_e7ww78b0wtkvo9u4j4zqghs9.kotlin() is applicable for argument types: (build_e7ww78b0wtkvo9u4j4zqghs9$_run_closure3) values: [build_e7ww78b0wtkvo9u4j4zqghs9$_run_closure3@6f52893]&#10;  Possible solutions: notify(), toString(), toString(), toString(), toString(), split(groovy.lang.Closure)&#10;&#10;* Try:&#10;&gt; Run with --stacktrace option to get the stack trace.&#10;&gt; Run with --info or --debug option to get more log output.&#10;&gt; Run with --scan to get full insights.&#10;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error message suggests that there is an issue with the `kotlin` block in your `build.gradle` file. Specifically, it seems that the `kotlin` block is not properly defined or configured.&#10;&#10;To resolve this issue, you can try the following steps:&#10;&#10;1. Open your `build.gradle` file.&#10;&#10;2. Locate the `kotlin` block, which should look like this:&#10;&#10;   ```groovy&#10;   kotlin {&#10;       // Configuration options&#10;   }&#10;   ```&#10;&#10;3. Check if the `kotlin` block is properly defined and if there are any syntax errors. Make sure that the opening and closing braces `{}` are correctly placed.&#10;&#10;4. If there are any configuration options within the `kotlin` block, ensure that they are properly formatted and aligned.&#10;&#10;5. If you don't have any specific configuration options within the `kotlin` block, you can remove the entire block. The default configuration should work fine in most cases.&#10;&#10;6. Save the `build.gradle` file and try rebuilding your project.&#10;&#10;If the issue persists, please provide the contents of your `build.gradle` file, and I'll be happy to assist you further." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702662296246" />
+              <option name="usedIndexedFilePaths">
+                <list>
+                  <option value="C:\Users\1N73RC3P70R\Documents\Idea\HelloKotlin\settings.gradle" />
+                  <option value="C:\Users\1N73RC3P70R\Documents\Idea\HelloKotlin\gradle.properties" />
+                </list>
+              </option>
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/build.gradle" />
                 </list>
               </option>
             </ChatHistoryModel>
@@ -462,6 +911,35 @@
             </ChatHistoryModel>
           </value>
         </entry>
+        <entry key="943c7e">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/build.gradle" />
+                </list>
+              </option>
+              <option name="id" value="943c7e" />
+              <option name="initiateTms" value="1702662325513" />
+              <option name="request" value="plugins {&#10;    id 'org.jetbrains.kotlin.jvm' version '1.6.21'&#10;    id 'application'&#10;}&#10;&#10;group = 'ru.netology'&#10;version = '1.0-SNAPSHOT'&#10;&#10;repositories {&#10;    mavenCentral()&#10;}&#10;&#10;dependencies {&#10;    implementation 'junit:junit:4.13.1'&#10;    implementation 'org.testng:testng:7.1.0'&#10;    testImplementation 'org.jetbrains.kotlin:kotlin-test'&#10;}&#10;&#10;&#10;kotlin {&#10;    jvmToolchain(8)&#10;}&#10;&#10;compileKotlin {&#10;    kotlinOptions.jvmTarget = '1.8'&#10;}&#10;&#10;compileTestKotlin {&#10;    kotlinOptions.jvmTarget = '1.8'&#10;}&#10;&#10;application {&#10;    mainClassName = 'MainKt'&#10;}" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Thank you for providing the contents of your `build.gradle` file. The issue seems to be related to the `kotlin` block and the `jvmToolchain` configuration.&#10;&#10;To fix the problem, you can modify your `build.gradle` file as follows:&#10;&#10;```groovy&#10;plugins {&#10;    id 'org.jetbrains.kotlin.jvm' version '1.6.21'&#10;    id 'application'&#10;}&#10;&#10;group = 'ru.netology'&#10;version = '1.0-SNAPSHOT'&#10;&#10;repositories {&#10;    mavenCentral()&#10;}&#10;&#10;dependencies {&#10;    implementation 'junit:junit:4.13.1'&#10;    implementation 'org.testng:testng:7.1.0'&#10;    testImplementation 'org.jetbrains.kotlin:kotlin-test'&#10;}&#10;&#10;compileKotlin {&#10;    kotlinOptions.jvmTarget = '1.8'&#10;}&#10;&#10;compileTestKotlin {&#10;    kotlinOptions.jvmTarget = '1.8'&#10;}&#10;&#10;application {&#10;    mainClassName = 'MainKt'&#10;}&#10;```&#10;&#10;In this modified version, I have removed the `kotlin` block and the `jvmToolchain` configuration. The `jvmTarget` configuration is now directly specified within the `compileKotlin` and `compileTestKotlin` blocks.&#10;&#10;Save the `build.gradle` file and try rebuilding your project. This should resolve the error you encountered.&#10;&#10;Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702662330746" />
+              <option name="usedIndexedFilePaths">
+                <list>
+                  <option value="C:\Users\1N73RC3P70R\Documents\Idea\HelloKotlin\settings.gradle" />
+                </list>
+              </option>
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/build.gradle" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
         <entry key="956859">
           <value>
             <ChatHistoryModel>
@@ -486,6 +964,30 @@
               <option name="usedLocalFilePaths">
                 <list>
                   <option value="$PROJECT_DIR$/src/main/kotlin/Commission.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="992fe1">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/test/kotlin/CommissionTest.kt" />
+                </list>
+              </option>
+              <option name="id" value="992fe1" />
+              <option name="initiateTms" value="1702662151891" />
+              <option name="request" value="How do I sync?" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To sync your Gradle project and fetch the updated dependencies, you can follow these steps:&#10;&#10;1. In your integrated development environment (IDE), locate the Gradle toolbar or Gradle tab. It is usually located on the right side of the IDE window.&#10;&#10;2. Look for the &quot;Sync&quot; or &quot;Refresh&quot; button/icon. It is typically represented by two circular arrows or a circular arrow with a vertical line.&#10;&#10;3. Click on the &quot;Sync&quot; or &quot;Refresh&quot; button/icon to initiate the synchronization process.&#10;&#10;4. Wait for the synchronization process to complete. Gradle will download the necessary dependencies and update your project configuration.&#10;&#10;5. Once the synchronization is finished, you should see a message indicating that the sync was successful.&#10;&#10;After syncing your Gradle project, the JUnit 4 dependency should be fetched and available for use in your project. You can then proceed to import the `org.junit.Test` class and use the `@Test` annotation without any issues.&#10;&#10;Note: The exact steps to sync your Gradle project may vary depending on the IDE you are using. The instructions provided above are general guidelines, and you may need to refer to your IDE's documentation for specific instructions.&#10;&#10;Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702662157872" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/test/kotlin/CommissionTest.kt" />
                 </list>
               </option>
             </ChatHistoryModel>
@@ -597,6 +1099,54 @@
             </ChatHistoryModel>
           </value>
         </entry>
+        <entry key="ae3afa">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/test/kotlin/CommissionTest.kt" />
+                </list>
+              </option>
+              <option name="id" value="ae3afa" />
+              <option name="initiateTms" value="1702653146837" />
+              <option name="request" value="How to fix the following error:&#10;Redundant empty class body" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The &quot;Redundant empty class body&quot; error occurs when you have an empty class declaration without any content inside the curly braces. To fix this error, you can simply remove the empty class body.&#10;&#10;For example, if you have the following code:&#10;&#10;```kotlin&#10;class MyClass {&#10;&#10;}&#10;```&#10;&#10;You can fix the error by removing the empty class body:&#10;&#10;```kotlin&#10;class MyClass&#10;```&#10;&#10;If you don't need the class at all, you can delete the entire class declaration.&#10;&#10;If you intended to have a class with some content inside the curly braces, make sure to add the necessary code or remove the empty class declaration if it is not needed.&#10;&#10;Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702653151115" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/test/kotlin/CommissionTest.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="b7c912">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+              <option name="id" value="b7c912" />
+              <option name="initiateTms" value="1702664711037" />
+              <option name="request" value="How to fix the following error:&#10;Value of 'input % 1' is always zero. Condition 'input % 1 == 0' is always true. " />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;Value of 'input % 1' is always zero. Condition 'input % 1 == 0' is always true&quot; occurs because the condition `input % 1 == 0` is unnecessary and will always evaluate to true. The modulo operation `%` with 1 will always result in 0, as any number modulo 1 is always 0.&#10;&#10;To fix this error, you can remove the unnecessary condition and simplify the code. Here's the updated code:&#10;&#10;```kotlin&#10;fun Likes() {&#10;    println(&quot;Введите количество лайков: &quot;)&#10;    val input: Int? = readLine()?.toIntOrNull()&#10;    if (input == 0) {&#10;        println(&quot;Никому пока не понравилось&quot;)&#10;    } else {&#10;        println(&quot;Понравилось 1 человеку&quot;)&#10;    }&#10;}&#10;```&#10;&#10;In this updated code, we removed the unnecessary condition `input % 1 == 0` and simplified the logic. Now, if the input is 0, the message &quot;Никому пока не понравилось&quot; will be printed. Otherwise, the message &quot;Понравилось 1 человеку&quot; will be printed.&#10;&#10;Please try using this updated code, and let me know if you encounter any further issues!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702664718667" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
         <entry key="b854fe">
           <value>
             <ChatHistoryModel>
@@ -621,6 +1171,114 @@
             </ChatHistoryModel>
           </value>
         </entry>
+        <entry key="c9eaa7">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/test/kotlin/CommissionTest.kt" />
+                  <option value="$PROJECT_DIR$/gradlew.bat" />
+                  <option value="$PROJECT_DIR$/gradle.properties" />
+                </list>
+              </option>
+              <option name="id" value="c9eaa7" />
+              <option name="initiateTms" value="1702662117004" />
+              <option name="request" value="I'm using gradle. I don't want the jupiter one, I want org.junit.Test" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="I apologize for the confusion. If you want to use the `org.junit.Test` annotation from JUnit 4 instead of JUnit Jupiter, you can follow these steps to fix the issue:&#10;&#10;1. Make sure you have the JUnit 4 dependency added to your Gradle build file (`build.gradle`). Add the following line to the `dependencies` section:&#10;&#10;   ```groovy&#10;   testImplementation 'junit:junit:4.13.2'&#10;   ```&#10;&#10;2. After adding the dependency, sync your Gradle project to fetch the JUnit library.&#10;&#10;3. In your test file, update the import statement to use `org.junit.Test`:&#10;&#10;   ```kotlin&#10;   import org.junit.Test&#10;   ```&#10;&#10;4. Save the file and rebuild your project to ensure that the changes are applied.&#10;&#10;After following these steps, you should be able to use the `@Test` annotation from JUnit 4 without any issues.&#10;&#10;Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702662122303" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/test/kotlin/CommissionTest.kt" />
+                  <option value="$PROJECT_DIR$/gradle.properties" />
+                  <option value="$PROJECT_DIR$/gradlew.bat" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="d296dc">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Main.kt" />
+                </list>
+              </option>
+              <option name="id" value="d296dc" />
+              <option name="initiateTms" value="1702665005484" />
+              <option name="request" value="fun main() {&#10;    println(&#10;        &quot;&quot;&quot;Выберите операцию: &#10;        |1. ДЗ 1-1&#10;        |2. ДЗ 1-2&#10;        |3. ДЗ 1-3&#10;    &quot;&quot;&quot;.trimMargin()&#10;    )&#10;    var userChoice: String? = readLine();&#10;&#10;    userChoice = if (userChoice == &quot;1&quot;)&#10;        commission().toString()&#10;    else if (userChoice = &quot;2&quot;) Likes.toString() else return&#10;&#10;}" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="There is a small error in your code. In the `else if` condition, you are using the assignment operator `=` instead of the equality operator `==`. To fix this error, you need to change `else if (userChoice = &quot;2&quot;)` to `else if (userChoice == &quot;2&quot;)`. Here's the corrected code:&#10;&#10;```kotlin&#10;fun main() {&#10;    println(&#10;        &quot;&quot;&quot;Выберите операцию: &#10;        |1. ДЗ 1-1&#10;        |2. ДЗ 1-2&#10;        |3. ДЗ 1-3&#10;    &quot;&quot;&quot;.trimMargin()&#10;    )&#10;    var userChoice: String? = readLine();&#10;&#10;    userChoice = if (userChoice == &quot;1&quot;)&#10;        commission().toString()&#10;    else if (userChoice == &quot;2&quot;) Likes().toString() else return&#10;&#10;}&#10;```&#10;&#10;In this updated code, we fixed the error by changing `else if (userChoice = &quot;2&quot;)` to `else if (userChoice == &quot;2&quot;)`. Now, if the user enters &quot;2&quot; as the choice, the `Likes()` function will be called.&#10;&#10;Please try using this updated code, and let me know if you encounter any further issues!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702665010047" />
+              <option name="usedIndexedFilePaths">
+                <list>
+                  <option value="C:\Users\1N73RC3P70R\Documents\Idea\HelloKotlin\src\main\kotlin\Commission.kt" />
+                  <option value="C:\Users\1N73RC3P70R\Documents\Idea\HelloKotlin\src\test\kotlin\CommissionTest.kt" />
+                </list>
+              </option>
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Main.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="df37fd">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/test/kotlin/CommissionTest.kt" />
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Commission.kt" />
+                </list>
+              </option>
+              <option name="id" value="df37fd" />
+              <option name="initiateTms" value="1702653183483" />
+              <option name="request" value="For Commission" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To write a test for the `commission()` function, you can use a testing framework like JUnit. Here's an example of how you can write a test for the `commission()` function:&#10;&#10;```kotlin&#10;import org.junit.Test&#10;import kotlin.test.assertEquals&#10;&#10;class CommissionTest {&#10;&#10;    @Test&#10;    fun testCommissionWithValidAmount() {&#10;        // Arrange&#10;        val expectedCommission = &quot;50.0 руб. - комиссия с \&quot;Visa\&quot;&quot;&#10;        &#10;        // Act&#10;        val actualCommission = commission()&#10;        &#10;        // Assert&#10;        assertEquals(expectedCommission, actualCommission)&#10;    }&#10;    &#10;    @Test&#10;    fun testCommissionWithInvalidAmount() {&#10;        // Arrange&#10;        val expectedCommission = &quot;Неправильная сумма.&quot;&#10;        &#10;        // Act&#10;        val actualCommission = commission()&#10;        &#10;        // Assert&#10;        assertEquals(expectedCommission, actualCommission)&#10;    }&#10;}&#10;```&#10;&#10;In this example, we have two test cases: `testCommissionWithValidAmount` and `testCommissionWithInvalidAmount`. &#10;&#10;In the `testCommissionWithValidAmount` test case, we set up the expected commission value based on the provided valid amount. We then call the `commission()` function and store the actual commission value. Finally, we use the `assertEquals` function from the testing framework to compare the expected and actual commission values.&#10;&#10;Similarly, in the `testCommissionWithInvalidAmount` test case, we set up the expected commission value based on the provided invalid amount. We call the `commission()` function and store the actual commission value. Finally, we use the `assertEquals` function to compare the expected and actual commission values.&#10;&#10;You can add more test cases to cover different scenarios and edge cases. Make sure to import the necessary dependencies for the testing framework you are using.&#10;&#10;Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702653191658" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/test/kotlin/CommissionTest.kt" />
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Commission.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="dfb7e4">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/test/kotlin/CommissionTest.kt" />
+                </list>
+              </option>
+              <option name="id" value="dfb7e4" />
+              <option name="initiateTms" value="1702662057596" />
+              <option name="request" value="It can't find it. It gives me only import org.junit.jupiter.api.Test. FIX" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="I apologize for the confusion. It seems that you are using JUnit Jupiter instead of JUnit 4. In JUnit Jupiter, the `@Test` annotation is located in the `org.junit.jupiter.api` package instead of the `org.junit` package.&#10;&#10;To fix the issue, you need to import the `org.junit.jupiter.api.Test` class instead. Here's the updated code:&#10;&#10;```kotlin&#10;import org.junit.jupiter.api.Test&#10;import kotlin.test.assertEquals&#10;&#10;class CommissionTest {&#10;&#10;    @Test&#10;    fun testCommission() {&#10;        // Arrange&#10;        val expectedCommission = &quot;50.0 руб. - комиссия с \&quot;Visa\&quot;&quot;&#10;        &#10;        // Act&#10;        val actualCommission = commission()&#10;        &#10;        // Assert&#10;        assertEquals(expectedCommission, actualCommission)&#10;    }&#10;}&#10;```&#10;&#10;Make sure you have the necessary dependencies for JUnit Jupiter added to your project's build configuration file. If you are using Gradle, you can add the following line to your `build.gradle` file:&#10;&#10;```groovy&#10;testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'&#10;```&#10;&#10;If you are using Maven, you can add the following dependency to your `pom.xml` file:&#10;&#10;```xml&#10;&lt;dependency&gt;&#10;    &lt;groupId&gt;org.junit.jupiter&lt;/groupId&gt;&#10;    &lt;artifactId&gt;junit-jupiter-api&lt;/artifactId&gt;&#10;    &lt;version&gt;5.8.1&lt;/version&gt;&#10;    &lt;scope&gt;test&lt;/scope&gt;&#10;&lt;/dependency&gt;&#10;```&#10;&#10;After adding the dependency and importing the correct `@Test` annotation, rebuild your project to ensure that the changes are applied.&#10;&#10;Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702662065423" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/test/kotlin/CommissionTest.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
         <entry key="e6c944">
           <value>
             <ChatHistoryModel>
@@ -639,6 +1297,90 @@
               <option name="responseTms" value="1702647633387" />
               <option name="usedLocalFilePaths">
                 <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Commission.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="e7005d">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+              <option name="id" value="e7005d" />
+              <option name="initiateTms" value="1702663813453" />
+              <option name="request" value="I need this to work for all numbers, not just write &quot;more than 10 people&quot;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Apologies for the confusion. If you want the program to display the exact number of people who liked the publication for any number of likes, you can modify the code as follows:&#10;&#10;```kotlin&#10;fun Likes() {&#10;    println(&quot;Введите количество лайков: &quot;)&#10;    val likes: Int = readLine()?.toIntOrNull() ?: 0&#10;&#10;    val message = when {&#10;        likes == 0 -&gt; &quot;Никто не оценил вашу публикацию&quot;&#10;        likes == 1 -&gt; &quot;Вашу публикацию оценил 1 человек&quot;&#10;        else -&gt; &quot;Вашу публикацию оценили $likes человек&quot;&#10;    }&#10;&#10;    println(message)&#10;}&#10;```&#10;&#10;In this updated code, we use a `when` expression without specifying a value. Instead, we check the conditions using `likes == 0` and `likes == 1`. For any other value of `likes`, we assume that it represents the exact number of people who liked the publication and display the message &quot;Вашу публикацию оценили $likes человек&quot;.&#10;&#10;Now, the program will display the exact number of people who liked the publication for any number of likes.&#10;&#10;Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702663818394" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/1/Likes.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="ee25d7">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Commission.kt" />
+                </list>
+              </option>
+              <option name="id" value="ee25d7" />
+              <option name="initiateTms" value="1702649408307" />
+              <option name="request" value="&#10;    println(&quot;Введите сумму: &quot;)&#10;    var amount = readLine()?.toDoubleOrNull();&#10;&#10;    while (amount &lt; 150000 &amp;&amp; amount &gt;= 0) {&#10;        val commissionTotal = if (amount == null || amount &lt;= 0) {&#10;            (&quot;Неправильная сумма.&quot;)&#10;        } else if (amount &lt;= MINIMUM_RATE) {&#10;            (&quot;$MINIMUM_RATE руб. комиссия с $cardChoice&quot;)&#10;        } else if (amount &gt; MINIMUM_RATE) {&#10;            (&quot;${amount * STANDARD_RATE} руб. - комиссия с $cardChoice&quot;)&#10;        } else (&quot;Ошибка!&quot;)&#10;&#10;    println(commissionTotal)&#10;}" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="In your code, there are a couple of issues. &#10;&#10;First, the condition in the `while` loop is incorrect. You are checking if `amount` is less than 150000 and greater than or equal to 0. However, based on the context, it seems like you want to continue the loop as long as `amount` is greater than or equal to 0 and less than 150000. To fix this, you can update the condition to `amount &gt;= 0 &amp;&amp; amount &lt; 150000`.&#10;&#10;Second, the `commissionTotal` variable is declared inside the `while` loop, which means it will be redeclared and assigned a new value in each iteration of the loop. If you want to accumulate the commission total, you should declare the variable before the loop and update its value inside the loop.&#10;&#10;Here's the corrected code:&#10;&#10;```kotlin&#10;println(&quot;Введите сумму: &quot;)&#10;var amount = readLine()?.toDoubleOrNull()&#10;&#10;var commissionTotal: String? = null&#10;&#10;while (amount != null &amp;&amp; amount &gt;= 0 &amp;&amp; amount &lt; 150000) {&#10;    commissionTotal = if (amount &lt;= 0) {&#10;        &quot;Неправильная сумма.&quot;&#10;    } else if (amount &lt;= MINIMUM_RATE) {&#10;        &quot;$MINIMUM_RATE руб. комиссия с $cardChoice&quot;&#10;    } else {&#10;        &quot;${amount * STANDARD_RATE} руб. - комиссия с $cardChoice&quot;&#10;    }&#10;&#10;    println(commissionTotal)&#10;&#10;    println(&quot;Введите сумму: &quot;)&#10;    amount = readLine()?.toDoubleOrNull()&#10;}&#10;```&#10;&#10;In this code, I declared the `commissionTotal` variable before the `while` loop to accumulate the commission total. Inside the loop, I updated the value of `commissionTotal` based on the conditions. The loop will continue as long as `amount` is not null and is greater than or equal to 0 and less than 150000.&#10;&#10;Please note that I assumed you want to continue the loop as long as the `amount` is within the specified range. You can modify the condition as per your requirements.&#10;&#10;Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702649416833" />
+              <option name="usedIndexedFilePaths">
+                <list>
+                  <option value="C:\Users\1N73RC3P70R\Documents\Idea\HelloKotlin\src\main\kotlin\Main.kt" />
+                </list>
+              </option>
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Commission.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="fe8946">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/test/kotlin/CommissionTest.kt" />
+                  <option value="$PROJECT_DIR$/src/main/kotlin/Commission.kt" />
+                </list>
+              </option>
+              <option name="id" value="fe8946" />
+              <option name="initiateTms" value="1702661903734" />
+              <option name="request" value="import org.junit.Test&#10;&#10;class CommissionTest {&#10;&#10;    fun testCommission(){&#10;&#10;    }&#10;}&#10;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Great! You have imported the `org.junit.Test` class and created a test function `testCommission()` inside the `CommissionTest` class. &#10;&#10;To make it a valid test case, you need to annotate the `testCommission()` function with `@Test` and add the necessary test assertions. Here's an updated version of your code:&#10;&#10;```kotlin&#10;import org.junit.Test&#10;import kotlin.test.assertEquals&#10;&#10;class CommissionTest {&#10;&#10;    @Test&#10;    fun testCommission() {&#10;        // Arrange&#10;        val expectedCommission = &quot;50.0 руб. - комиссия с \&quot;Visa\&quot;&quot;&#10;        &#10;        // Act&#10;        val actualCommission = commission()&#10;        &#10;        // Assert&#10;        assertEquals(expectedCommission, actualCommission)&#10;    }&#10;}&#10;```&#10;&#10;In this example, the `testCommission()` function is annotated with `@Test`, indicating that it is a test case. Inside the test function, we set up the expected commission value based on the provided valid amount. We then call the `commission()` function and store the actual commission value. Finally, we use the `assertEquals` function from the `kotlin.test` package to compare the expected and actual commission values.&#10;&#10;Make sure you have the necessary dependencies and testing framework set up in your project, as mentioned in the previous response.&#10;&#10;Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702661911098" />
+              <option name="usedIndexedFilePaths">
+                <list>
+                  <option value="C:\Users\1N73RC3P70R\Documents\Idea\HelloKotlin\src\main\kotlin\Main.kt" />
+                </list>
+              </option>
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/test/kotlin/CommissionTest.kt" />
                   <option value="$PROJECT_DIR$/src/main/kotlin/Commission.kt" />
                 </list>
               </option>
