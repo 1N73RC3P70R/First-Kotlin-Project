@@ -2,7 +2,7 @@ fun likes(){
     println("""Введите количество отметок "Нравится": """)
     val input: Int? = readLine()?.toIntOrNull();
 
-    if (input == null){
+    if (input == null || input <= 0){
         println("Неправильный ввод.")
     } else {
         val likes = when {
