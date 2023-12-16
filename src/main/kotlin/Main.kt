@@ -10,6 +10,7 @@ fun main() {
 
     userChoice = if (userChoice == "1")
         commission().toString()
-    else if (userChoice == "2") likes().toString() else return
-
+    else if (userChoice == "2") likes().toString()
+    else if (userChoice == "3") music().toString()
+    else return
 }
