@@ -35,5 +35,6 @@ fun commission() {
         ("${amount * STANDARD_RATE} руб. - комиссия с $cardChoice")
     } else ("Ошибка!")
 
-    println(commissionTotal)
+    if (commissionTotal < MINIMUM_RATE.toString()) println("$MINIMUM_RATE руб. комиссия с $cardChoice")
+    else println(commissionTotal)
 }
