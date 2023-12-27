@@ -1,3 +1,5 @@
+import files.music
+
 fun main() {
     println(
         """Выберите операцию: 
